@@ -1,0 +1,16 @@
+.fancystyle{
+
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+body{
+
+    margin: auto;
+    width: 50%;
+    border: 1000px solid green;
+    padding: 10px;
+    
+
+}
